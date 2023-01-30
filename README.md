@@ -1,4 +1,5 @@
-# express-be-example
+# Mini Express Backend Example \w Sequelize
+
 Simple Express backend example
 
 ## How to run
