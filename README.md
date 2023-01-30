@@ -20,8 +20,6 @@ You can test the API using postman:
 
 ## Pictures
 
-![Running the server](https://user-images.githubusercontent.com/56494343/215374070-a9b65d42-1eac-4c15-b97a-c515b0caf45c.png)
-: Running the server
+*Running the server*
 
-![Postman interface](https://user-images.githubusercontent.com/56494343/215374317-d2a2426c-5bc1-4585-9fe9-7e08094613d2.png)
-: Postman interface
+![Running the server](https://user-images.githubusercontent.com/56494343/215374448-31cef33a-39e7-480f-a5b3-0b79e38bf386.png)
